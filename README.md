@@ -1,5 +1,4 @@
 # RPA_2025
-RPA projects using UiPath
 
 1.RPA Projects
 
